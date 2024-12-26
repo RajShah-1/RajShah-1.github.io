@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://localhot.com/sitemap.xml
+Host: https://localhot.com
