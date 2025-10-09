@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Machine Learning on Raj Shah</title><link>https://rajshah.dev/tags/machine-learning/</link><description>Recent content in Machine Learning on Raj Shah</description><generator>Hugo -- 0.151.0</generator><language>en-us</language><atom:link href="https://rajshah.dev/tags/machine-learning/index.xml" rel="self" type="application/rss+xml"/><item><title>RAG Pipeline for Textbook QA</title><link>https://rajshah.dev/projects/vlm-compression/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rajshah.dev/projects/vlm-compression/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;p&gt;A retrieval-augmented generation (RAG) system designed to index and query large textbook collections for intelligent question-answering.&lt;/p&gt;
+&lt;h2 id="key-achievements"&gt;Key Achievements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Indexed 1,000+ textbook pages&lt;/strong&gt; into FAISS with dense + BM25 retrieval&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Implemented DocETL style query planning&lt;/strong&gt; for efficient document processing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Built ensemble re-ranking&lt;/strong&gt; system for improved answer quality&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Added structured logging and visualization&lt;/strong&gt; for system monitoring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="technical-implementation"&gt;Technical Implementation&lt;/h2&gt;
+&lt;p&gt;The system combines multiple advanced techniques:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dense Retrieval&lt;/strong&gt;: FAISS indexing with sentence transformers&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sparse Retrieval&lt;/strong&gt;: BM25 for keyword-based matching&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Query Planning&lt;/strong&gt;: DocETL style processing for complex queries&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Re-ranking&lt;/strong&gt;: Ensemble methods for answer quality improvement&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inference&lt;/strong&gt;: Support for llama.cpp inference and document chunking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="impact"&gt;Impact&lt;/h2&gt;
+&lt;p&gt;This RAG pipeline enables efficient querying of large document collections, making educational content more accessible and searchable through natural language interfaces.&lt;/p&gt;</description></item></channel></rss>
