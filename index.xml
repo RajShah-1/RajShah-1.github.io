@@ -1,136 +1,107 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Raj Shah</title><link>https://rajshah-1.github.io/</link><description>Recent content on Raj Shah</description><generator>Hugo -- 0.151.0</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://rajshah-1.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Quant Developer Intern</title><link>https://rajshah-1.github.io/experience/barclays/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/experience/barclays/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Raj Shah</title>
+    <link>https://rajshah-1.github.io/</link>
+    <description>Recent content on Raj Shah</description>
+    <image>
+      <title>Raj Shah</title>
+      <url>https://rajshah-1.github.io/images/profile.jpg</url>
+      <link>https://rajshah-1.github.io/images/profile.jpg</link>
+    </image>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rajshah-1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classmate AI</title>
+      <link>https://rajshah-1.github.io/projects/classmate-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajshah-1.github.io/projects/classmate-ai/</guid>
+      <description>A cross-platform mobile application that provides real-time lecture transcription, AI-powered summaries, and intelligent Q&amp;amp;A to enhance learning efficiency.</description>
+    </item>
+    <item>
+      <title>MapReduce Infrastructure</title>
+      <link>https://rajshah-1.github.io/projects/mapreduce-infrastructure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajshah-1.github.io/projects/mapreduce-infrastructure/</guid>
+      <description>A distributed, fault-tolerant MapReduce implementation built from scratch in C&#43;&#43; with gRPC and multithreading capabilities.</description>
+    </item>
+    <item>
+      <title>RAG Pipeline for Textbook QA</title>
+      <link>https://rajshah-1.github.io/projects/tokensmith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajshah-1.github.io/projects/tokensmith/</guid>
+      <description>A retrieval-augmented generation (RAG) system designed to index and query large textbook collections for intelligent question-answering.</description>
+    </item>
+    <item>
+      <title>Quant Developer Intern</title>
+      <link>https://rajshah-1.github.io/experience/barclays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajshah-1.github.io/experience/barclays/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Quant Developer Intern at Barclays Investment Bank in the Statistical Modelling and Development team, focusing on high-frequency trading systems and performance optimization.&lt;/p&gt;
-&lt;h2 id="key-achievements"&gt;Key Achievements&lt;/h2&gt;
+&lt;h2 id=&#34;key-achievements&#34;&gt;Key Achievements&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;23% p99 latency improvement&lt;/strong&gt; by profiling the Java quoting pipeline with JMH, diagnosing cross-socket NUMA traffic in a JNI-backed C++ library, and optimizing synchronization&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2.6× throughput increase&lt;/strong&gt; and &lt;strong&gt;50% message size reduction&lt;/strong&gt; by migrating inter-process communication from string-encoded messages to Protocol Buffers&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Real-time event stream design&lt;/strong&gt; to convert yield-space quotes to price-space valuations for unified fair pricing&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="technical-contributions"&gt;Technical Contributions&lt;/h2&gt;
-&lt;h3 id="performance-optimization"&gt;Performance Optimization&lt;/h3&gt;
+&lt;h2 id=&#34;technical-contributions&#34;&gt;Technical Contributions&lt;/h2&gt;
+&lt;h3 id=&#34;performance-optimization&#34;&gt;Performance Optimization&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Profiled Java-C++ quoting pipeline using JMH (Java Microbenchmark Harness)&lt;/li&gt;
 &lt;li&gt;Diagnosed and resolved cross-socket NUMA traffic issues in JNI-backed C++ libraries&lt;/li&gt;
 &lt;li&gt;Optimized synchronization mechanisms for reduced latency&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="system-architecture"&gt;System Architecture&lt;/h3&gt;
+&lt;h3 id=&#34;system-architecture&#34;&gt;System Architecture&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Migrated IPC from string-encoded messages to Protocol Buffers&lt;/li&gt;
 &lt;li&gt;Designed real-time event streams for yield-to-price space conversion&lt;/li&gt;
 &lt;li&gt;Implemented unified fair pricing mechanisms&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="technologies"&gt;Technologies&lt;/h2&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Java, C++&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt;: JMH benchmarking, NUMA optimization&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Communication&lt;/strong&gt;: Protocol Buffers, JNI&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Systems&lt;/strong&gt;: High-frequency trading infrastructure&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Senior Member Technical</title><link>https://rajshah-1.github.io/experience/deshaw/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/experience/deshaw/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Senior Member Technical</title>
+      <link>https://rajshah-1.github.io/experience/deshaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajshah-1.github.io/experience/deshaw/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Senior Member Technical in the Middleware team at The D. E. Shaw Group, focusing on trading middleware systems, performance optimization, and team leadership.&lt;/p&gt;
-&lt;h2 id="key-achievements"&gt;Key Achievements&lt;/h2&gt;
+&lt;h2 id=&#34;key-achievements&#34;&gt;Key Achievements&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;30% ops workload reduction&lt;/strong&gt; by enhancing recovery of partial transaction log files and adding integrity checks against distributed replica warehouses&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;40% trading middleware performance boost&lt;/strong&gt; by optimizing cryptography implementation with OpenSSL and Java Native Interface, eliminating garbage generation&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Led UI design&lt;/strong&gt; of the intern evaluation portal and UI overhaul of the monitoring tool based on user feedback&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Mentored two summer interns&lt;/strong&gt; through successful completion of their internships&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="technical-contributions"&gt;Technical Contributions&lt;/h2&gt;
-&lt;h3 id="performance-optimization"&gt;Performance Optimization&lt;/h3&gt;
+&lt;h2 id=&#34;technical-contributions&#34;&gt;Technical Contributions&lt;/h2&gt;
+&lt;h3 id=&#34;performance-optimization&#34;&gt;Performance Optimization&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Enhanced recovery mechanisms for partial transaction log files&lt;/li&gt;
 &lt;li&gt;Optimized OpenSSL and JNI implementations to eliminate garbage generation&lt;/li&gt;
 &lt;li&gt;Added integrity checks against distributed replica warehouses&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="leadership--mentoring"&gt;Leadership &amp;amp; Mentoring&lt;/h3&gt;
+&lt;h3 id=&#34;leadership--mentoring&#34;&gt;Leadership &amp;amp; Mentoring&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Led UI design initiatives for internal tools&lt;/li&gt;
 &lt;li&gt;Mentored and guided summer interns&lt;/li&gt;
 &lt;li&gt;Conducted user feedback sessions for tool improvements&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="technologies"&gt;Technologies&lt;/h2&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Java, C++&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Systems&lt;/strong&gt;: Apache Kafka, OpenSSL, JNI&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;UI/UX&lt;/strong&gt;: Frontend development, user research&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Infrastructure&lt;/strong&gt;: Distributed systems, transaction logging&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Classmate AI</title><link>https://rajshah-1.github.io/projects/classmate-ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/projects/classmate-ai/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
-&lt;p&gt;A cross-platform mobile application that provides real-time lecture transcription, AI-powered summaries, and intelligent Q&amp;amp;A to enhance learning efficiency.&lt;/p&gt;
-&lt;h2 id="key-achievements"&gt;Key Achievements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;30% improvement&lt;/strong&gt; in lecture review efficiency during pilot tests with 50+ students&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;41% higher engagement&lt;/strong&gt; and &lt;strong&gt;2× faster response times&lt;/strong&gt; through A/B testing on note layouts and Q&amp;amp;A interface&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fault-tolerant Whisper + LLM pipeline&lt;/strong&gt; for reliable real-time processing&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="technical-implementation"&gt;Technical Implementation&lt;/h2&gt;
-&lt;h3 id="architecture"&gt;Architecture&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: React Native for cross-platform compatibility&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Flask with Python Celery for distributed task processing&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI Pipeline&lt;/strong&gt;: Whisper for speech-to-text, LLM for summarization and Q&amp;amp;A&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Infrastructure&lt;/strong&gt;: Azure cloud services for scalability&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Design&lt;/strong&gt;: Figma for UI/UX design and prototyping&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="key-features"&gt;Key Features&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Real-time transcription&lt;/strong&gt; using advanced speech recognition&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AI-generated summaries&lt;/strong&gt; with key points and concepts&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Intelligent Q&amp;amp;A&lt;/strong&gt; system for lecture content&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;A/B testing framework&lt;/strong&gt; for continuous improvement&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fault-tolerant processing&lt;/strong&gt; for reliable performance&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="results"&gt;Results&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;30% efficiency gain&lt;/strong&gt; in lecture review during pilot tests&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;41% higher engagement&lt;/strong&gt; through optimized user interface&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;2× faster response times&lt;/strong&gt; for Q&amp;amp;A interactions&lt;/li&gt;
-&lt;li&gt;Positive feedback from 50+ beta users across multiple institutions&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://github.com/RajShah-1/ClassmateAI"&gt;View on GitHub →&lt;/a&gt;&lt;/p&gt;</description></item><item><title>MapReduce Infrastructure</title><link>https://rajshah-1.github.io/projects/mapreduce-infrastructure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/projects/mapreduce-infrastructure/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
-&lt;p&gt;A distributed, fault-tolerant MapReduce implementation built from scratch in C++ with gRPC and multithreading capabilities.&lt;/p&gt;
-&lt;h2 id="architecture"&gt;Architecture&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Master-Worker Architecture&lt;/strong&gt;: Centralized job scheduling and coordination&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fault Tolerance&lt;/strong&gt;: Automatic task reassignment and recovery mechanisms&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Load Balancing&lt;/strong&gt;: Dynamic task distribution across worker nodes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Network Communication&lt;/strong&gt;: gRPC-based inter-node communication&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="key-features"&gt;Key Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Distributed Processing&lt;/strong&gt;: Handles large-scale data processing across multiple nodes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fault Recovery&lt;/strong&gt;: Automatic detection and recovery from node failures&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Scalability&lt;/strong&gt;: Supports dynamic addition/removal of worker nodes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Performance Monitoring&lt;/strong&gt;: Real-time metrics and progress tracking&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="technical-implementation"&gt;Technical Implementation&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: C++ for high performance&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Communication&lt;/strong&gt;: gRPC for efficient network communication&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Concurrency&lt;/strong&gt;: Multithreading for parallel task execution&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Storage&lt;/strong&gt;: Efficient data serialization and storage management&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="use-cases"&gt;Use Cases&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Large-scale data processing&lt;/li&gt;
-&lt;li&gt;Distributed computing research&lt;/li&gt;
-&lt;li&gt;Educational purposes for understanding MapReduce concepts&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://github.com/RajShah-1/mapreduce"&gt;View on GitHub →&lt;/a&gt;&lt;/p&gt;</description></item><item><title>RAG Pipeline for Textbook QA</title><link>https://rajshah-1.github.io/projects/vlm-compression/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/projects/vlm-compression/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
-&lt;p&gt;A retrieval-augmented generation (RAG) system designed to index and query large textbook collections for intelligent question-answering.&lt;/p&gt;
-&lt;h2 id="key-achievements"&gt;Key Achievements&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Indexed 1,000+ textbook pages&lt;/strong&gt; into FAISS with dense + BM25 retrieval&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Implemented DocETL style query planning&lt;/strong&gt; for efficient document processing&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Built ensemble re-ranking&lt;/strong&gt; system for improved answer quality&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Added structured logging and visualization&lt;/strong&gt; for system monitoring&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="technical-implementation"&gt;Technical Implementation&lt;/h2&gt;
-&lt;p&gt;The system combines multiple advanced techniques:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Dense Retrieval&lt;/strong&gt;: FAISS indexing with sentence transformers&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sparse Retrieval&lt;/strong&gt;: BM25 for keyword-based matching&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Query Planning&lt;/strong&gt;: DocETL style processing for complex queries&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Re-ranking&lt;/strong&gt;: Ensemble methods for answer quality improvement&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Inference&lt;/strong&gt;: Support for llama.cpp inference and document chunking&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="impact"&gt;Impact&lt;/h2&gt;
-&lt;p&gt;This RAG pipeline enables efficient querying of large document collections, making educational content more accessible and searchable through natural language interfaces.&lt;/p&gt;</description></item></channel></rss>
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

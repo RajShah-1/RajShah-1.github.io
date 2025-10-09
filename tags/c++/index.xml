@@ -1,57 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>C++ on Raj Shah</title><link>https://rajshah-1.github.io/tags/c++/</link><description>Recent content in C++ on Raj Shah</description><generator>Hugo -- 0.151.0</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://rajshah-1.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml"/><item><title>Quant Developer Intern</title><link>https://rajshah-1.github.io/experience/barclays/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/experience/barclays/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>C&#43;&#43; on Raj Shah</title>
+    <link>https://rajshah-1.github.io/tags/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Raj Shah</description>
+    <image>
+      <title>Raj Shah</title>
+      <url>https://rajshah-1.github.io/images/profile.jpg</url>
+      <link>https://rajshah-1.github.io/images/profile.jpg</link>
+    </image>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <atom:link href="https://rajshah-1.github.io/tags/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MapReduce Infrastructure</title>
+      <link>https://rajshah-1.github.io/projects/mapreduce-infrastructure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajshah-1.github.io/projects/mapreduce-infrastructure/</guid>
+      <description>A distributed, fault-tolerant MapReduce implementation built from scratch in C&#43;&#43; with gRPC and multithreading capabilities.</description>
+    </item>
+    <item>
+      <title>Quant Developer Intern</title>
+      <link>https://rajshah-1.github.io/experience/barclays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajshah-1.github.io/experience/barclays/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Quant Developer Intern at Barclays Investment Bank in the Statistical Modelling and Development team, focusing on high-frequency trading systems and performance optimization.&lt;/p&gt;
-&lt;h2 id="key-achievements"&gt;Key Achievements&lt;/h2&gt;
+&lt;h2 id=&#34;key-achievements&#34;&gt;Key Achievements&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;23% p99 latency improvement&lt;/strong&gt; by profiling the Java quoting pipeline with JMH, diagnosing cross-socket NUMA traffic in a JNI-backed C++ library, and optimizing synchronization&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;2.6× throughput increase&lt;/strong&gt; and &lt;strong&gt;50% message size reduction&lt;/strong&gt; by migrating inter-process communication from string-encoded messages to Protocol Buffers&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Real-time event stream design&lt;/strong&gt; to convert yield-space quotes to price-space valuations for unified fair pricing&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="technical-contributions"&gt;Technical Contributions&lt;/h2&gt;
-&lt;h3 id="performance-optimization"&gt;Performance Optimization&lt;/h3&gt;
+&lt;h2 id=&#34;technical-contributions&#34;&gt;Technical Contributions&lt;/h2&gt;
+&lt;h3 id=&#34;performance-optimization&#34;&gt;Performance Optimization&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Profiled Java-C++ quoting pipeline using JMH (Java Microbenchmark Harness)&lt;/li&gt;
 &lt;li&gt;Diagnosed and resolved cross-socket NUMA traffic issues in JNI-backed C++ libraries&lt;/li&gt;
 &lt;li&gt;Optimized synchronization mechanisms for reduced latency&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="system-architecture"&gt;System Architecture&lt;/h3&gt;
+&lt;h3 id=&#34;system-architecture&#34;&gt;System Architecture&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Migrated IPC from string-encoded messages to Protocol Buffers&lt;/li&gt;
 &lt;li&gt;Designed real-time event streams for yield-to-price space conversion&lt;/li&gt;
 &lt;li&gt;Implemented unified fair pricing mechanisms&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="technologies"&gt;Technologies&lt;/h2&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Java, C++&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt;: JMH benchmarking, NUMA optimization&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Communication&lt;/strong&gt;: Protocol Buffers, JNI&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Systems&lt;/strong&gt;: High-frequency trading infrastructure&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>MapReduce Infrastructure</title><link>https://rajshah-1.github.io/projects/mapreduce-infrastructure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/projects/mapreduce-infrastructure/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
-&lt;p&gt;A distributed, fault-tolerant MapReduce implementation built from scratch in C++ with gRPC and multithreading capabilities.&lt;/p&gt;
-&lt;h2 id="architecture"&gt;Architecture&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Master-Worker Architecture&lt;/strong&gt;: Centralized job scheduling and coordination&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fault Tolerance&lt;/strong&gt;: Automatic task reassignment and recovery mechanisms&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Load Balancing&lt;/strong&gt;: Dynamic task distribution across worker nodes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Network Communication&lt;/strong&gt;: gRPC-based inter-node communication&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="key-features"&gt;Key Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Distributed Processing&lt;/strong&gt;: Handles large-scale data processing across multiple nodes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fault Recovery&lt;/strong&gt;: Automatic detection and recovery from node failures&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Scalability&lt;/strong&gt;: Supports dynamic addition/removal of worker nodes&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Performance Monitoring&lt;/strong&gt;: Real-time metrics and progress tracking&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="technical-implementation"&gt;Technical Implementation&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Language&lt;/strong&gt;: C++ for high performance&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Communication&lt;/strong&gt;: gRPC for efficient network communication&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Concurrency&lt;/strong&gt;: Multithreading for parallel task execution&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Storage&lt;/strong&gt;: Efficient data serialization and storage management&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="use-cases"&gt;Use Cases&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Large-scale data processing&lt;/li&gt;
-&lt;li&gt;Distributed computing research&lt;/li&gt;
-&lt;li&gt;Educational purposes for understanding MapReduce concepts&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://github.com/RajShah-1/mapreduce"&gt;View on GitHub →&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,29 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Kafka on Raj Shah</title><link>https://rajshah-1.github.io/tags/kafka/</link><description>Recent content in Kafka on Raj Shah</description><generator>Hugo -- 0.151.0</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rajshah-1.github.io/tags/kafka/index.xml" rel="self" type="application/rss+xml"/><item><title>Senior Member Technical</title><link>https://rajshah-1.github.io/experience/deshaw/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/experience/deshaw/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kafka on Raj Shah</title>
+    <link>https://rajshah-1.github.io/tags/kafka/</link>
+    <description>Recent content in Kafka on Raj Shah</description>
+    <image>
+      <title>Raj Shah</title>
+      <url>https://rajshah-1.github.io/images/profile.jpg</url>
+      <link>https://rajshah-1.github.io/images/profile.jpg</link>
+    </image>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <atom:link href="https://rajshah-1.github.io/tags/kafka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Senior Member Technical</title>
+      <link>https://rajshah-1.github.io/experience/deshaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajshah-1.github.io/experience/deshaw/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Senior Member Technical in the Middleware team at The D. E. Shaw Group, focusing on trading middleware systems, performance optimization, and team leadership.&lt;/p&gt;
-&lt;h2 id="key-achievements"&gt;Key Achievements&lt;/h2&gt;
+&lt;h2 id=&#34;key-achievements&#34;&gt;Key Achievements&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;30% ops workload reduction&lt;/strong&gt; by enhancing recovery of partial transaction log files and adding integrity checks against distributed replica warehouses&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;40% trading middleware performance boost&lt;/strong&gt; by optimizing cryptography implementation with OpenSSL and Java Native Interface, eliminating garbage generation&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Led UI design&lt;/strong&gt; of the intern evaluation portal and UI overhaul of the monitoring tool based on user feedback&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Mentored two summer interns&lt;/strong&gt; through successful completion of their internships&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="technical-contributions"&gt;Technical Contributions&lt;/h2&gt;
-&lt;h3 id="performance-optimization"&gt;Performance Optimization&lt;/h3&gt;
+&lt;h2 id=&#34;technical-contributions&#34;&gt;Technical Contributions&lt;/h2&gt;
+&lt;h3 id=&#34;performance-optimization&#34;&gt;Performance Optimization&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Enhanced recovery mechanisms for partial transaction log files&lt;/li&gt;
 &lt;li&gt;Optimized OpenSSL and JNI implementations to eliminate garbage generation&lt;/li&gt;
 &lt;li&gt;Added integrity checks against distributed replica warehouses&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="leadership--mentoring"&gt;Leadership &amp;amp; Mentoring&lt;/h3&gt;
+&lt;h3 id=&#34;leadership--mentoring&#34;&gt;Leadership &amp;amp; Mentoring&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Led UI design initiatives for internal tools&lt;/li&gt;
 &lt;li&gt;Mentored and guided summer interns&lt;/li&gt;
 &lt;li&gt;Conducted user feedback sessions for tool improvements&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="technologies"&gt;Technologies&lt;/h2&gt;
+&lt;h2 id=&#34;technologies&#34;&gt;Technologies&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Java, C++&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Systems&lt;/strong&gt;: Apache Kafka, OpenSSL, JNI&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;UI/UX&lt;/strong&gt;: Frontend development, user research&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Infrastructure&lt;/strong&gt;: Distributed systems, transaction logging&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
