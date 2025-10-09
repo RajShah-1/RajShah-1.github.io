@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Raj Shah</title><link>https://rajshah.dev/</link><description>Recent content on Raj Shah</description><generator>Hugo -- 0.151.0</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rajshah.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Quant Developer Intern</title><link>https://rajshah.dev/experience/barclays/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://rajshah.dev/experience/barclays/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Raj Shah</title><link>https://rajshah-1.github.io/</link><description>Recent content on Raj Shah</description><generator>Hugo -- 0.151.0</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rajshah-1.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Quant Developer Intern</title><link>https://rajshah-1.github.io/experience/barclays/</link><pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/experience/barclays/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Quant Developer Intern at Barclays Investment Bank in the Statistical Modelling and Development team, focusing on high-frequency trading systems and performance optimization.&lt;/p&gt;
 &lt;h2 id="key-achievements"&gt;Key Achievements&lt;/h2&gt;
 &lt;ul&gt;
@@ -25,7 +25,7 @@
 &lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt;: JMH benchmarking, NUMA optimization&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Communication&lt;/strong&gt;: Protocol Buffers, JNI&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Systems&lt;/strong&gt;: High-frequency trading infrastructure&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Senior Member Technical</title><link>https://rajshah.dev/experience/deshaw/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://rajshah.dev/experience/deshaw/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>Senior Member Technical</title><link>https://rajshah-1.github.io/experience/deshaw/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/experience/deshaw/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Senior Member Technical in the Middleware team at The D. E. Shaw Group, focusing on trading middleware systems, performance optimization, and team leadership.&lt;/p&gt;
 &lt;h2 id="key-achievements"&gt;Key Achievements&lt;/h2&gt;
 &lt;ul&gt;
@@ -53,7 +53,7 @@
 &lt;li&gt;&lt;strong&gt;Systems&lt;/strong&gt;: Apache Kafka, OpenSSL, JNI&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;UI/UX&lt;/strong&gt;: Frontend development, user research&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Infrastructure&lt;/strong&gt;: Distributed systems, transaction logging&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Classmate AI</title><link>https://rajshah.dev/projects/classmate-ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rajshah.dev/projects/classmate-ai/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>Classmate AI</title><link>https://rajshah-1.github.io/projects/classmate-ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/projects/classmate-ai/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;A cross-platform mobile application that provides real-time lecture transcription, AI-powered summaries, and intelligent Q&amp;amp;A to enhance learning efficiency.&lt;/p&gt;
 &lt;h2 id="key-achievements"&gt;Key Achievements&lt;/h2&gt;
 &lt;ul&gt;
@@ -85,7 +85,7 @@
 &lt;li&gt;&lt;strong&gt;2× faster response times&lt;/strong&gt; for Q&amp;amp;A interactions&lt;/li&gt;
 &lt;li&gt;Positive feedback from 50+ beta users across multiple institutions&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://github.com/RajShah-1/ClassmateAI"&gt;View on GitHub →&lt;/a&gt;&lt;/p&gt;</description></item><item><title>MapReduce Infrastructure</title><link>https://rajshah.dev/projects/mapreduce-infrastructure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rajshah.dev/projects/mapreduce-infrastructure/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/RajShah-1/ClassmateAI"&gt;View on GitHub →&lt;/a&gt;&lt;/p&gt;</description></item><item><title>MapReduce Infrastructure</title><link>https://rajshah-1.github.io/projects/mapreduce-infrastructure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/projects/mapreduce-infrastructure/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;A distributed, fault-tolerant MapReduce implementation built from scratch in C++ with gRPC and multithreading capabilities.&lt;/p&gt;
 &lt;h2 id="architecture"&gt;Architecture&lt;/h2&gt;
 &lt;ul&gt;
@@ -114,7 +114,7 @@
 &lt;li&gt;Distributed computing research&lt;/li&gt;
 &lt;li&gt;Educational purposes for understanding MapReduce concepts&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://github.com/RajShah-1/mapreduce"&gt;View on GitHub →&lt;/a&gt;&lt;/p&gt;</description></item><item><title>RAG Pipeline for Textbook QA</title><link>https://rajshah.dev/projects/vlm-compression/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rajshah.dev/projects/vlm-compression/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/RajShah-1/mapreduce"&gt;View on GitHub →&lt;/a&gt;&lt;/p&gt;</description></item><item><title>RAG Pipeline for Textbook QA</title><link>https://rajshah-1.github.io/projects/vlm-compression/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rajshah-1.github.io/projects/vlm-compression/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;A retrieval-augmented generation (RAG) system designed to index and query large textbook collections for intelligent question-answering.&lt;/p&gt;
 &lt;h2 id="key-achievements"&gt;Key Achievements&lt;/h2&gt;
 &lt;ul&gt;
