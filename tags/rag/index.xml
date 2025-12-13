@@ -13,18 +13,18 @@
     <language>en-us</language>
     <atom:link href="https://rajshah-1.github.io/tags/rag/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>TokenSmith: Agentic RAG system on Local LLM</title>
+      <link>https://rajshah-1.github.io/projects/tokensmith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajshah-1.github.io/projects/tokensmith/</guid>
+      <description>A retrieval-augmented QA pipeline for technical textbooks, designed to reduce “semantic miss” failures by combining sparse keyword matching with dense embedding retrieval.</description>
+    </item>
+    <item>
       <title>Classmate AI</title>
       <link>https://rajshah-1.github.io/projects/classmate-ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rajshah-1.github.io/projects/classmate-ai/</guid>
       <description>A cross-platform mobile application that provides real-time lecture transcription, AI-powered summaries, and intelligent Q&amp;amp;A to enhance learning efficiency.</description>
-    </item>
-    <item>
-      <title>RAG Pipeline for Textbook QA</title>
-      <link>https://rajshah-1.github.io/projects/tokensmith/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rajshah-1.github.io/projects/tokensmith/</guid>
-      <description>A retrieval-augmented generation (RAG) system designed to index and query large textbook collections for intelligent question-answering.</description>
     </item>
   </channel>
 </rss>
