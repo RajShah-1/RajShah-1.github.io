@@ -28,6 +28,13 @@
       <description>A retrieval-augmented QA pipeline for technical textbooks, designed to reduce “semantic miss” failures by combining sparse keyword matching with dense embedding retrieval.</description>
     </item>
     <item>
+      <title>CardEst: Cardinality Estimation Benchmark &amp; Optimization</title>
+      <link>https://rajshah-1.github.io/projects/cardest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rajshah-1.github.io/projects/cardest/</guid>
+      <description>A comprehensive benchmarking framework for database cardinality estimation, implementing traditional and feedback-driven estimators on the JOB benchmark.</description>
+    </item>
+    <item>
       <title>MapReduce Infrastructure</title>
       <link>https://rajshah-1.github.io/projects/mapreduce-infrastructure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
